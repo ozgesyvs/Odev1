@@ -1,0 +1,14 @@
+/Users/ozge/Desktop/Pratikler/Odev1/bin/Debug/net8.0/Odev1
+/Users/ozge/Desktop/Pratikler/Odev1/bin/Debug/net8.0/Odev1.deps.json
+/Users/ozge/Desktop/Pratikler/Odev1/bin/Debug/net8.0/Odev1.runtimeconfig.json
+/Users/ozge/Desktop/Pratikler/Odev1/bin/Debug/net8.0/Odev1.dll
+/Users/ozge/Desktop/Pratikler/Odev1/bin/Debug/net8.0/Odev1.pdb
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/Odev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/Odev1.AssemblyInfoInputs.cache
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/Odev1.AssemblyInfo.cs
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/Odev1.csproj.CoreCompileInputs.cache
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/Odev1.dll
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/refint/Odev1.dll
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/Odev1.pdb
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/Odev1.genruntimeconfig.cache
+/Users/ozge/Desktop/Pratikler/Odev1/obj/Debug/net8.0/ref/Odev1.dll
